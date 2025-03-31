@@ -1,70 +1,140 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hi, I'm Siva 👋
 
-## Available Scripts
 
-In the project directory, you can run:
+#  Student Portal Application 🌟
 
-### `npm start`
+- This application will be used as a  __Student Management System__ that connects students with various educational resources, course enrollments, and student tracking.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#  Technologies 🛠️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🖥️ Frontend:
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50px"/>
 
-### `npm run build`
+**IDE:**  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Technologies: **HTML, CSS, JavaScript** <br>
+- IDE: **VS Code** 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🖥️ Backend:
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**IDE:**  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Technologies: **Java, Spring Boot** <br>
+- IDE: **Eclipse**  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🗄️ Database:
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**IDE:** 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Technology: **MySQL** <br>
+- Tool: **MySQL Workbench**  
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🛠️ APIS Testing Tool
 
-### Making a Progressive Web App
+For testing the APIs, we are using Postman.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**IDE:**  
+<img width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🔹 Description
+- Student Portal is a smart Student management system that integrates frontend, backend, and database technologies to provide seamless automation and control.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🔹 Features
+- User-friendly frontend interface
+- Secure backend 🛠️ API with Spring Boot
+- MySQL database integration
 
-### `npm run build` fails to minify
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Features 🚀
+
+## 🔹Student Portal
+
+- **User Registration :**   
+  - Students can register in securely.
+
+- **Profile Management:**    
+  - We can see and manage their details. 
+
+- **Students Search:**    
+  - Based on the Student register emails we can find the Students.  
+
+<br>
+
+# Installation 🔧
+
+## Frontend Setup
+
+### 1. Clone the repository:
+
+- git clone https://github.com/Siva611/SpringBootCRUD-UI <br>
+- cd SpringBootCRUDUi
+
+### 2. Install dependencies and run the frontend:
+
+- npm install
+
+- npm start
+
+<br>
+
+## Backend Setup
+
+### 1. Clone the backend repository:
+
+- git clone https://github.com/Siva611/SpringBootCRUD-BE <br>
+- cd SpringBootCRUD-BE
+
+## 🔹 Database Configuration  
+
+To configure the Update the MySQL database in **Spring Boot**, add the following properties in `application.properties`:  
+
+```properties
+    spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
+    spring.datasource.username=your_username
+    spring.datasource.password=your_password
+```
+
+
+
+### Note: 
+- Change the database name (__*your_database_name*__) if needed.
+Ensure MySQL is running and the database is created.
+
+
+### 3. Build and run the backend:
+
+- mvn clean install <br>
+- mvn spring-boot:run
+
+ <br>
+
+#  To see the Website View ✅
+
+<img src="./public/images/jsphome.png">
+
+<br>
+
+<img src="./public/images/addstudent.png">
