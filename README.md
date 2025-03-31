@@ -18,7 +18,7 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>  
 
 
-- Technologies: **HTML, CSS, JavaScript** <br>
+- Technologies: **HTML, CSS, JavaScript, ReactJs** <br>
 - IDE: **VS Code** 
 
 ---
